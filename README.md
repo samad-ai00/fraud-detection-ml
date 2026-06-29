@@ -4,7 +4,7 @@ This project, "Credit Card Fraud Detection System," utilizes machine learning to
 
 ## Methodology
 The project follows a rigorous end-to-end machine learning lifecycle:
-
+![Fraud Defense Framework](The%20AI-First%20Fraud%20Defense%20Framework.png)
 * **Data Acquisition & Preprocessing:** The workflow begins with loading high-dimensional transaction data. Essential preprocessing steps include data cleaning and feature scaling to ensure model stability. A core focus is managing the inherent class imbalance—where fraudulent transactions are rare compared to legitimate ones—which is addressed through targeted evaluation techniques.
 
 * **Modeling Strategy:** The system utilizes a Decision Tree Classifier to establish non-linear decision boundaries within the transaction features. This model was selected for its interpretability and efficacy in mapping complex feature interactions, allowing for a clearer understanding of the indicators that trigger a fraud alert.
