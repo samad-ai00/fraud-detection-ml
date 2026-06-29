@@ -13,7 +13,7 @@ The project follows a rigorous end-to-end machine learning lifecycle:
 
 ## Technical Stack
 * **Core Language:** Python
-* **Environment:** Google Colab / Jupyter Notebook
+* **Environment:** Google Colab
 * **Libraries:** `pandas` and `numpy` for data manipulation, and `scikit-learn` for algorithm implementation and evaluation metrics.
 
 ## Project Impact
